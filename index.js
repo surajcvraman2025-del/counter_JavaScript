@@ -8,3 +8,8 @@ function Increment_fun() {
 
     
 }
+ function decreas_fun() {
+  A = A - 1;
+  console.log(A);
+  document.getElementById("counter_value").innerText = A;
+ }saa
