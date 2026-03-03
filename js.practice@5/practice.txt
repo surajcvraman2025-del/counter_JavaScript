@@ -1,0 +1,24 @@
+console.log(4 === 3)
+VM199:1 false
+
+console.log( 5 > 2) // big > to small 
+VM236:1 true
+
+console.log( 12 > 12)// big > to small 
+VM350:1 false
+
+console.log( 12 < 12) 
+VM364:1 false
+
+console.log(  3 < 0)
+VM399:1 false
+
+console.log(  3 >= 3)
+VM414:1 true
+
+console.log(  11 <= 11)
+VM448:1 true
+
+console.log(  3 <=2 )
+VM484:1 false
+
